@@ -1,0 +1,26 @@
+ host-suffix,gtimg.com , direct
+ host-suffix,idqqimg.com,direct
+ host-suffix,igamecj.com,direct
+ host-suffix,myapp.com,direct
+ host-suffix,myqcloud.com,direct
+ host-suffix,qq.com,direct
+ host-suffix,tencent.com,direct
+ host-suffix,tencent-cloud.net,direct
+ host-keyword,alipay,direct
+ host-keyword,taobao,direct
+ host-keyword,alicdn,direct
+ host-keyword,aliyun,direct
+ host-wildcard,.tmall.,direct
+ ip-cidr,198.11.188.0/25,no-resolve
+ ip-cidr,198.11.136.0/24,no-resolve
+ host-suffix,CN,direct
+ host-keyword,baidu
+ host-suffix,gtimg.com,direct
+ host-suffix,idqqimg.com,direct
+ host-suffix,igamecj.com,direct
+ host-suffix,myapp.com,direct
+ host-suffix,myqcloud.com,direct
+ host-suffix,qq.com,direct
+ host-suffix,tencent.com,direct
+ host-suffix,tencent-cloud.net,direct
+ host-suffix,taobao.com,direct
