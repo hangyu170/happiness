@@ -19,3 +19,6 @@
  host-suffix,letsencrypt.org , proxy
  host-suffix,android.com , proxy
  host-suffix,ytimg.com , proxy
+ host-suffix,msn , proxy
+ host-suffix,microsoft , proxy
+ host-suffix,bing , proxy
