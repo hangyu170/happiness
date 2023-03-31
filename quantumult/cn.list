@@ -12,8 +12,8 @@
  host-keyword,aliyun,direct
  host-wildcard,.tmall.,direct
  host-suffix,CN,direct
- ip-cidr,198.11.188.0/25,direct
- ip-cidr,198.11.136.0/24,direct
+ ip-cidr,198.11.188.0/25,direct,no-resolve
+ ip-cidr,198.11.136.0/24,direct,no-resolve
  host-keyword,baidu,direct
  host-suffix,gtimg.com,direct
  host-suffix,idqqimg.com,direct
