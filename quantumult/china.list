@@ -70,4 +70,4 @@ DOMAIN-SUFFIX,springsunday.net,DIRECT
 DOMAIN-SUFFIX,tjupt.org,DIRECT
 DOMAIN-SUFFIX,totheglory.im,DIRECT
 
-GEOIP,CN,DIRECT,no-resolve
+#GEOIP,CN,DIRECT,no-resolve
